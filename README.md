@@ -189,14 +189,19 @@ min tile class kommer här under
 
 ____________________________
 
-package  
-{
+	package  
+	{
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	/**
 	 * ...
 	 * @author Elias
 	 */
+	
+
+
+
+
 	public class Tile extends Sprite
 	{
 		[Embed(source = "Vatten1.png")]
